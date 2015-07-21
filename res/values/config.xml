@@ -7,7 +7,7 @@
     <string name="property_version">ro.delta.version</string>
 
     <!-- Property to read for device identifier -->
-    <string name="property_device">ro.delta.device</string>
+    <string name="property_device">ro.build.product</string>
 
     <!-- %s is expanded to property_version value. .zip, .delta, .update, .sign extensions added when needed -->
     <string name="filename_base">minimal-%s</string>
